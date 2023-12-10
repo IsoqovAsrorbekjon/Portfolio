@@ -40,7 +40,7 @@ export const experiencesData = [
     description:
       "I spent 6 months there and learned basic javascript and react.",
     icon: React.createElement(LuGraduationCap),
-    date: "2022",
+    date: "___2022",
   },
   {
     title: "Albison IT academy",
@@ -48,7 +48,7 @@ export const experiencesData = [
     description:
       "I got a lot of experience with javaScript and React.js here and started doing various small projects",
     icon: React.createElement(CgWorkAlt),
-    date: "2022 - 2023",
+    date: "2022 - 2023___",
   },
   {
     title: "Amity University",
@@ -56,7 +56,7 @@ export const experiencesData = [
     description:
       "I currently work as a mentor at Amity University and do small projects as a side job.",
     icon: React.createElement(FaReact),
-    date: "2021 - present",
+    date: "___2023 - present",
   },
 ] as const;
 
@@ -87,6 +87,7 @@ export const projectsData = [
 export const skillsData = [
   "HTML",
   "CSS",
+  "sass",
   "JavaScript",
   "TypeScript",
   "React",
